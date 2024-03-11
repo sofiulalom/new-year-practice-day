@@ -100,3 +100,36 @@ ul li span{
   margin-top: 5px;
 
 }
+/* plan section style  */
+.plan-head-info{
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+.plan-items-container{
+    display: flex;
+    margin: auto;
+    gap: 10px;
+}
+.plan-item img{
+  width: 100px;
+ margin-left: 120px;
+ 
+}
+.plan-infor {
+    margin-left: 120px;
+}
+.plan-title{
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.plan-description{
+    font-size: 12px;
+    font-weight: 400;
+    color: gray;
+    margin-top: 0px;
+}
