@@ -8,7 +8,7 @@
     
 .header-info{
     margin-bottom: 130px;
-    width: 1150px;
+  
 }
 
 
@@ -16,7 +16,7 @@
     background-image: url('../images/banner/banner1.png');
     background-size: cover;
     background-repeat: no-repeat;
-     height: 500px;
+     height: 700px;
    
 }
 .btn-primary{
@@ -60,7 +60,7 @@
 /*failurs sectionn style.. */
 main section{
     margin-bottom: 130px;
-    width: 1150px;
+    width: 1100px;
 }
 .failurs-container{
     display: flex;
@@ -70,7 +70,6 @@ main section{
 
 img{
     width: 100%;
-
 }
 .My-failures-information{
     padding:100px;
@@ -160,6 +159,7 @@ ul li span{
 /*footer  section  style  */
 footer{
     background-color: black;
+ 
 }
 .shcial-links{
    display: flex;
@@ -171,6 +171,7 @@ footer{
     display: flex;
     margin: 100px 100px;
     justify-content: space-around;
+       margin-bottom: 0px;
 
 }
 .futuer-info {
@@ -192,4 +193,15 @@ span{
     display: block;
     font-size: 10px;
     margin-bottom: 10px;
+}
+.sub-info{
+    color: #fff;
+    display: block;
+    padding: 100px;
+}
+.enter-email{
+    padding: 10px 15px;
+    border: 0;
+    outline: none;
+    margin-bottom: 5px;
 }
